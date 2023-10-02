@@ -1,0 +1,8 @@
+C:\Users\codys\Desktop\invoke entry\invoke\bin\Release\invoke.exe.config
+C:\Users\codys\Desktop\invoke entry\invoke\bin\Release\invoke.exe
+C:\Users\codys\Desktop\invoke entry\invoke\bin\Release\invoke.pdb
+C:\Users\codys\Desktop\invoke entry\invoke\obj\Release\invoke.csproj.AssemblyReference.cache
+C:\Users\codys\Desktop\invoke entry\invoke\obj\Release\invoke.csproj.SuggestedBindingRedirects.cache
+C:\Users\codys\Desktop\invoke entry\invoke\obj\Release\invoke.csproj.CoreCompileInputs.cache
+C:\Users\codys\Desktop\invoke entry\invoke\obj\Release\invoke.exe
+C:\Users\codys\Desktop\invoke entry\invoke\obj\Release\invoke.pdb
